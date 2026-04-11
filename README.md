@@ -1,16 +1,17 @@
-## Hi there 👋
+# Sobre mi
 
-<!--
-**diavels/diavels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy un apasionado por crear soluciones digitales a través del código. Actualmente, mi enfoque principal es el ecosistema Java, construyendo aplicaciones robustas y escalables. Me considero un aprendiz constante, siempre explorando nuevas tecnologías de forma autodidacta para llevar mis habilidades al siguiente nivel. 
 
-Here are some ideas to get you started:
+### 🔭 ¿En qué estoy trabajando?
+- 🏗️ Aprendiendo a construir aplicaciones web con **Spring Framework**.
+- 📱 Explorando el mundo del desarrollo móvil.
+- 🎓 Aprendiendo de forma autodidacta sobre arquitectura de software y buenas prácticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Futuros Intereses
+- 🔒 **Ciberseguridad:** Mi próxima gran meta es profundizar en el desarrollo seguro de aplicaciones y pentesting.
+
+### 🛠️ Tecnologías y Herramientas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
