@@ -4,10 +4,11 @@
 
 ### 🔭 ¿En qué estoy trabajando?
 - 🏗️ Aprendiendo a construir aplicaciones web con **Spring Framework**.
-- 📱 Explorando el mundo del desarrollo móvil.
 - 🎓 Aprendiendo de forma autodidacta sobre arquitectura de software y buenas prácticas.
+- 📖 Aplicando conocimientos base para la creacion de MVP que puedan ayudar a consolidar conocimientos de Java.
 
 ### 🛡️ Futuros Intereses
+- 📱 **Desarrollo Movil:** Mi proximo paso es poder profundizar en el uso de Kotlin para desarrollo de aplicaciones moviles Android.
 - 🔒 **Ciberseguridad:** Mi próxima gran meta es profundizar en el desarrollo seguro de aplicaciones y pentesting.
 
 ### 🛠️ Tecnologías y Herramientas
