@@ -17,8 +17,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Proyectos a Destacar
+### 🚀 Mis Proyectos Destacados
 
+| Proyecto | Descripción | Tech Stack | Enlaces |
+| :--- | :--- | :--- | :--- |
+| **Alek Wallet** | Billetera virtual para control de finanzas personales. | JS, LocalStorage | [Repo](link) / [Demo](link) |
+| **Conversor de monedas** | Gestor Java para converción de monedas  | Java, Biblioteca GSON, API | [Repo](https://github.com/diavels/conversor-monedas) |
+| **Zapatero Custom** | Diseño y prototipado de mobiliario a medida. | Carpintería, CAD | [Fotos](link) |
 
 
 
