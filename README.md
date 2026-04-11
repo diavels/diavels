@@ -21,7 +21,7 @@
 
 | Proyecto | Descripción | Tech Stack | Enlaces |
 | :--- | :--- | :--- | :--- |
-| **Alek Wallet** | Billetera virtual para control de finanzas personales. | JS, LocalStorage | [Repo](link) / [Demo](link) |
+| **Alek Wallet** | Billetera virtual para control de finanzas personales. | JS, LocalStorage | [Repo](https://github.com/diavels/Wallet-basica) / [Demo](https://diavels.github.io/Wallet-basica/) |
 | **Conversor de monedas** | Gestor Java para converción de monedas  | Java, Biblioteca GSON, API | [Repo](https://github.com/diavels/conversor-monedas) |
 | **Zapatero Custom** | Diseño y prototipado de mobiliario a medida. | Carpintería, CAD | [Fotos](link) |
 
