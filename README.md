@@ -23,7 +23,7 @@
 | :--- | :--- | :--- | :--- |
 | **Alek Wallet** | Billetera virtual para control de finanzas personales. | JS, LocalStorage | [Repo](https://github.com/diavels/Wallet-basica) / [Demo](https://diavels.github.io/Wallet-basica/) |
 | **Conversor de monedas** | Gestor Java para converción de monedas  | Java, Biblioteca GSON, API | [Repo](https://github.com/diavels/conversor-monedas) |
-| **Gestion de Libreria**  | Gestor con consola Java para Libreria, usando API y CRUD basico | Java, API, PostgreSQL | [Repo] (https://github.com/diavels/Libreria) |
+| **Gestion de Libreria**  | Gestor con consola Java para Libreria, usando API y CRUD basico | Java, API, PostgreSQL | [Repo](https://github.com/diavels/Libreria) |
 
 
 ## Contacto
